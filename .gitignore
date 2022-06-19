@@ -3,6 +3,7 @@ dist
 coverage
 npm-debug.log
 yarn-error.log
+lerna-debug.log
 .yarn/cache
 .idea
 .DS_Store
