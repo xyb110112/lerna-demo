@@ -1,6 +1,6 @@
 {
 	"name": "@xyb/utils",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "frequently used utils",
 	"author": "xyb",
 	"homepage": "https://github.com/xyb110112/lerna-demo#readme",
@@ -24,12 +24,11 @@
 		"url": "git+https://github.com/xyb110112/lerna-demo.git"
 	},
 	"scripts": {
-    "build": "rimraf dist && cross-env NODE_ENV=production BABEL_ENV=production rollup -c"
+		"build": "rimraf dist && cross-env NODE_ENV=production BABEL_ENV=production rollup -c"
 	},
 	"bugs": {
 		"url": "https://github.com/xyb110112/lerna-demo/issues"
 	},
-	"devDependencies": {},
 	"dependencies": {
 		"lodash": "^4.17.21"
 	}
