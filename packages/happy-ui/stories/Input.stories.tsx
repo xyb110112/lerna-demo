@@ -15,5 +15,5 @@ const Template: ComponentStory<typeof Input> = (args) => (
 export const Primary = Template.bind({})
 
 Primary.args = {
-	placeholder: '测试输入',
+	placeholder: '哈哈输入',
 }
