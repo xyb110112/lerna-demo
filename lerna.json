@@ -27,7 +27,7 @@
 			},
 			{
 				"type": "chore",
-				"section": "🚀 Chore | 构建/工程依赖/工具",
+				"section": "🚀 Chore | 构建/工程依赖/工具"
 			},
 			{
 				"type": "docs",
@@ -47,11 +47,11 @@
 			},
 			{
 				"type": "test",
-				"section": "✅ Tests | 测试",
+				"section": "✅ Tests | 测试"
 			},
 			{
 				"type": "revert",
-				"section": "⏪ Revert | 回退",
+				"section": "⏪ Revert | 回退"
 			},
 			{
 				"type": "build",
