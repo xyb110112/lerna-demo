@@ -1,6 +1,6 @@
 {
 	"name": "@xyb/happy",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "React Components UI",
 	"author": "xyb",
 	"homepage": "https://github.com/xyb110112/lerna-demo#readme",
@@ -121,7 +121,7 @@
 		"yarn-audit-fix": "^9.3.1"
 	},
 	"dependencies": {
-		"@xyb/utils": "^0.1.0",
+		"@xyb/utils": "^0.1.1",
 		"classnames": "^2.3.1"
 	}
 }
