@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3-alpha.0](https://github.com/xyb110112/lerna-demo/compare/@xyb/happy@0.1.2...@xyb/happy@0.1.3-alpha.0) (2022-06-30)
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+* **@xyb/happy:** 修改babelrc ([9b6a939](https://github.com/xyb110112/lerna-demo/commit/9b6a93921022a3100811a47c2ab0ee4c237359d5))
+
+
+
 ## [0.1.2](https://github.com/xyb110112/lerna-demo/compare/@xyb/happy@0.1.1...@xyb/happy@0.1.2) (2022-06-27)
 
 
